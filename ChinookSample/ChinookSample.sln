@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "..\Website\", "{57471CB0-0798-4902-8E45-7159DE6330F1}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{d9743a28-4f1e-4b82-be89-1d52847a7ec3}|ChinookSystem.dll;{02ED7AA4-9BF6-4F12-B643-74A17CBF101B}|ChinookSystem.Data.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_8051"
 		Debug.AspNetCompiler.PhysicalPath = "..\Website\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8051\"
